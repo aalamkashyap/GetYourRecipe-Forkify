@@ -16,3 +16,4 @@ Project features:
   - download npm
   - run "npm init"
   - package.json file will be created - make changes as per given package.json file
+  - to run - type npm run start
