@@ -4,6 +4,7 @@ The project is a website to search for recipes and also user can upload a custom
 
 Working demo of the project can be checked here:
 https://getyourfavrecipe.netlify.app/
+
 Project features:
 
 - The project covers basic to advanced features of JavaScript learned in the entire course.
